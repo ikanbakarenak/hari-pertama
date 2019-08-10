@@ -1,2 +1,2 @@
 # hari-pertama
-Repository awal hehe
+Repository awal. Tulis keinginan kalian dan pull request ke repo ini
