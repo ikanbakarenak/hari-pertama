@@ -4,7 +4,7 @@ Repository awal. Tulis keinginan kalian lalu pull requests ke repo ini
 
 Tutorial pull request ke akun @ikanbakarenak:
 
-![screen]()
+![screen](https://github.com/ikanbakarenak/hari-pertama/blob/ikanbakarenak-patch-1/Asset/howToPullRequests.gif)
 
 ## Support warung ini:
 
